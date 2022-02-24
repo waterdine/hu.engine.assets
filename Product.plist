@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameworkVersion</key>
+	<integer>0</integer>
+	<key>id</key>
+	<string>CF820867-E0C6-4D9A-9D22-239CFB881B83</string>
+	<key>name</key>
+	<string>虎.engine.assets</string>
+	<key>version</key>
+	<integer>0</integer>
+	<key>encrypted</key>
+	<false/>
+	<key>library</key>
+	<true/>
+	<key>defaultLibrary</key>
+	<string></string>
+	<key>libraries</key>
+	<array/>
+	<key>languages</key>
+	<array/>
+</dict>
+</plist>
